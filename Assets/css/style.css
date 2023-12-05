@@ -1,0 +1,32 @@
+
+#cuadro1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+#cuadro2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+#cuadro3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+#cuadro4{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+#key{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: solid black;
+}
+
+.cuadrado{
+    width: 200px;
+    height: 200px;
+}
